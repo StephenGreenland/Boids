@@ -1,0 +1,2017 @@
+fileFormatVersion: 2
+guid: 22b8dfddaf0de55428438d1ddb1f565a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8205067085304365936
+    second: animales2_0
+  - first:
+      213: 2588967574001853807
+    second: animales2_1
+  - first:
+      213: 350408603458165302
+    second: animales2_2
+  - first:
+      213: 5704996688159217054
+    second: animales2_3
+  - first:
+      213: 88467122110478717
+    second: animales2_4
+  - first:
+      213: -3535960286163169345
+    second: animales2_5
+  - first:
+      213: -6735052393840372136
+    second: animales2_6
+  - first:
+      213: 7395209034403932429
+    second: animales2_7
+  - first:
+      213: 5044947574578726919
+    second: animales2_8
+  - first:
+      213: -7550582303124084224
+    second: animales2_9
+  - first:
+      213: 4389005402796566939
+    second: animales2_10
+  - first:
+      213: -6236359506695921808
+    second: animales2_11
+  - first:
+      213: -1066046879365608229
+    second: animales2_12
+  - first:
+      213: 5833168972965532920
+    second: animales2_13
+  - first:
+      213: -8504835615463394743
+    second: animales2_14
+  - first:
+      213: 1703694023868727813
+    second: animales2_15
+  - first:
+      213: -3736304860246632552
+    second: animales2_16
+  - first:
+      213: 5008261730920712005
+    second: animales2_17
+  - first:
+      213: 1356906006680010243
+    second: animales2_18
+  - first:
+      213: -23054722862064370
+    second: animales2_19
+  - first:
+      213: 692943845431120163
+    second: animales2_20
+  - first:
+      213: 5149401818354312936
+    second: animales2_21
+  - first:
+      213: 5296043990342853053
+    second: animales2_22
+  - first:
+      213: 1625112740606019863
+    second: animales2_23
+  - first:
+      213: 1578601469713080373
+    second: animales2_24
+  - first:
+      213: -5220121200617282665
+    second: animales2_25
+  - first:
+      213: -5814397872549932009
+    second: animales2_26
+  - first:
+      213: -333637160354439409
+    second: animales2_27
+  - first:
+      213: 9161745511988947639
+    second: animales2_28
+  - first:
+      213: -5418628546710143875
+    second: animales2_29
+  - first:
+      213: -7078630644817010183
+    second: animales2_30
+  - first:
+      213: 7841842923647604573
+    second: animales2_31
+  - first:
+      213: -4141621975745906697
+    second: animales2_32
+  - first:
+      213: -4957005386239867464
+    second: animales2_33
+  - first:
+      213: -8721674922459113637
+    second: animales2_34
+  - first:
+      213: 3432186835313621265
+    second: animales2_35
+  - first:
+      213: -4299203025073129067
+    second: animales2_36
+  - first:
+      213: 5071260086939782719
+    second: animales2_37
+  - first:
+      213: -1271772233581056666
+    second: animales2_38
+  - first:
+      213: 1746102644690234459
+    second: animales2_39
+  - first:
+      213: -8514504049785812456
+    second: animales2_40
+  - first:
+      213: 5395153220403263752
+    second: animales2_41
+  - first:
+      213: 6845123225955413438
+    second: animales2_42
+  - first:
+      213: -8237943409341939774
+    second: animales2_43
+  - first:
+      213: -5932853176931959876
+    second: animales2_44
+  - first:
+      213: -4943057850983433207
+    second: animales2_45
+  - first:
+      213: -7865267327952609400
+    second: animales2_46
+  - first:
+      213: -6715300459523456401
+    second: animales2_47
+  - first:
+      213: 588799527277202258
+    second: animales2_48
+  - first:
+      213: 845582876867122594
+    second: animales2_49
+  - first:
+      213: 2528653919694610303
+    second: animales2_50
+  - first:
+      213: 8227221582032118287
+    second: animales2_51
+  - first:
+      213: 2976101547019113261
+    second: animales2_52
+  - first:
+      213: -2931218132807444888
+    second: animales2_53
+  - first:
+      213: 3973424576611553279
+    second: animales2_54
+  - first:
+      213: 1749656822585540819
+    second: animales2_55
+  - first:
+      213: -4952785144589926049
+    second: animales2_56
+  - first:
+      213: 7516552257755612058
+    second: animales2_57
+  - first:
+      213: -5774154847912353283
+    second: animales2_58
+  - first:
+      213: -1591692702440763013
+    second: animales2_59
+  - first:
+      213: -5885757499268912991
+    second: animales2_60
+  - first:
+      213: 6469459643955098932
+    second: animales2_61
+  - first:
+      213: -4878770343512042191
+    second: animales2_62
+  - first:
+      213: -124229306384341208
+    second: animales2_63
+  - first:
+      213: -1566308760913334008
+    second: animales2_64
+  - first:
+      213: -3228307350707967459
+    second: animales2_65
+  - first:
+      213: 6312766645656024326
+    second: animales2_66
+  - first:
+      213: 1663651045861153293
+    second: animales2_67
+  - first:
+      213: -4638391359293680325
+    second: animales2_68
+  - first:
+      213: 4844289012920806624
+    second: animales2_69
+  - first:
+      213: 9205748473405891382
+    second: animales2_70
+  - first:
+      213: 8224844243010400365
+    second: animales2_71
+  - first:
+      213: -2744393712818727209
+    second: animales2_72
+  - first:
+      213: 6215724030998151364
+    second: animales2_73
+  - first:
+      213: 3312923101093116788
+    second: animales2_74
+  - first:
+      213: 8422314715104659405
+    second: animales2_75
+  - first:
+      213: -116427838368539636
+    second: animales2_76
+  - first:
+      213: 1218129324587304339
+    second: animales2_77
+  - first:
+      213: 2654100919103907572
+    second: animales2_78
+  - first:
+      213: 7749657110260831333
+    second: animales2_79
+  - first:
+      213: -6545680723146753823
+    second: animales2_80
+  - first:
+      213: -6481817341963352094
+    second: animales2_81
+  - first:
+      213: 6917695437578965723
+    second: animales2_82
+  - first:
+      213: 1174978061952109265
+    second: animales2_83
+  - first:
+      213: -6518663360437586831
+    second: animales2_84
+  - first:
+      213: -604039816189356322
+    second: animales2_85
+  - first:
+      213: 223813429237890524
+    second: animales2_86
+  - first:
+      213: -6471439585403948451
+    second: animales2_87
+  - first:
+      213: -2945788772786191956
+    second: animales2_88
+  - first:
+      213: -4206780757110370114
+    second: animales2_89
+  - first:
+      213: -3581976099195241869
+    second: animales2_90
+  - first:
+      213: 835298199786290021
+    second: animales2_91
+  - first:
+      213: 8311714301227848105
+    second: animales2_92
+  - first:
+      213: 786821376077635528
+    second: animales2_93
+  - first:
+      213: -2179400086161480303
+    second: animales2_94
+  - first:
+      213: 2640841807226621223
+    second: animales2_95
+  - first:
+      213: 1992393737423251826
+    second: animales2_96
+  - first:
+      213: 6399333031432474153
+    second: animales2_97
+  - first:
+      213: -5593438845061668359
+    second: animales2_98
+  - first:
+      213: 2618305226078858048
+    second: animales2_99
+  - first:
+      213: 5261484869937000648
+    second: animales2_100
+  - first:
+      213: 3387774463478761985
+    second: animales2_101
+  - first:
+      213: -8132136019058997109
+    second: animales2_102
+  - first:
+      213: -6634081239863087894
+    second: animales2_103
+  - first:
+      213: -4493662051987032557
+    second: animales2_104
+  - first:
+      213: 749677363321819297
+    second: animales2_105
+  - first:
+      213: -7006939176034251602
+    second: animales2_106
+  - first:
+      213: -6570914826326294225
+    second: animales2_107
+  - first:
+      213: 2793713977692087012
+    second: animales2_108
+  - first:
+      213: 5427680443008987095
+    second: animales2_109
+  - first:
+      213: 1917680132939277527
+    second: animales2_110
+  - first:
+      213: -1563873075375029501
+    second: animales2_111
+  - first:
+      213: 6410803842326718901
+    second: animales2_112
+  - first:
+      213: -257803214644168734
+    second: animales2_113
+  - first:
+      213: -3176972618715404527
+    second: animales2_114
+  - first:
+      213: 5327569956055228472
+    second: animales2_115
+  - first:
+      213: 1509158400323889756
+    second: animales2_116
+  - first:
+      213: 2744387405519655466
+    second: animales2_117
+  - first:
+      213: -9141705604457674700
+    second: animales2_118
+  - first:
+      213: -1253051185266535388
+    second: animales2_119
+  - first:
+      213: -8728649339227144068
+    second: animales2_120
+  - first:
+      213: 36432491935125086
+    second: animales2_121
+  - first:
+      213: -1688631153023577213
+    second: animales2_122
+  - first:
+      213: -6902778589859344974
+    second: animales2_123
+  - first:
+      213: -5554304401904507031
+    second: animales2_124
+  - first:
+      213: -7045067491432196933
+    second: animales2_125
+  - first:
+      213: -9075953361124876053
+    second: animales2_126
+  - first:
+      213: -6927036210676936579
+    second: animales2_127
+  - first:
+      213: 5676259818954852141
+    second: animales2_128
+  - first:
+      213: -1821876151552591550
+    second: animales2_129
+  - first:
+      213: -3021147323940322537
+    second: animales2_130
+  - first:
+      213: -1097835954927518335
+    second: animales2_131
+  - first:
+      213: -2845553733243828832
+    second: animales2_132
+  - first:
+      213: -9045627722065036503
+    second: animales2_133
+  - first:
+      213: -1619148743813624727
+    second: animales2_134
+  - first:
+      213: 3387439911373798729
+    second: animales2_135
+  - first:
+      213: -7733625112870160589
+    second: animales2_136
+  - first:
+      213: 2158025834860271667
+    second: animales2_137
+  - first:
+      213: 2749332650195389344
+    second: animales2_138
+  - first:
+      213: 7485839527974704184
+    second: animales2_139
+  - first:
+      213: -2994170359200374297
+    second: animales2_140
+  - first:
+      213: 6048847133643908492
+    second: animales2_141
+  - first:
+      213: -2063961336869181959
+    second: animales2_142
+  - first:
+      213: -1265900602199936325
+    second: animales2_143
+  - first:
+      213: 6783811504328486408
+    second: animales2_144
+  - first:
+      213: 6524003289598514027
+    second: animales2_145
+  - first:
+      213: 8473087580458770333
+    second: animales2_146
+  - first:
+      213: -1811367377923794466
+    second: animales2_147
+  - first:
+      213: 5238129240374095361
+    second: animales2_148
+  - first:
+      213: 8343888004470785326
+    second: animales2_149
+  - first:
+      213: -1784654521129209834
+    second: animales2_150
+  - first:
+      213: 5306815514459730724
+    second: animales2_151
+  - first:
+      213: 2604959444730705232
+    second: animales2_152
+  - first:
+      213: -5504246543401099112
+    second: animales2_153
+  - first:
+      213: -3513302638686847410
+    second: animales2_154
+  - first:
+      213: 8466824365301297396
+    second: animales2_155
+  - first:
+      213: 7834934621161785114
+    second: animales2_156
+  - first:
+      213: 459868275473970746
+    second: animales2_157
+  - first:
+      213: -3036257949153107259
+    second: animales2_158
+  - first:
+      213: 84754129123905406
+    second: animales2_159
+  - first:
+      213: -779783715186235520
+    second: animales2_160
+  - first:
+      213: 3888398214741665002
+    second: animales2_161
+  - first:
+      213: -1127004339499871874
+    second: animales2_162
+  - first:
+      213: -682264783241431710
+    second: animales2_163
+  - first:
+      213: -772918145635027622
+    second: animales2_164
+  - first:
+      213: 7516781944072323312
+    second: animales2_165
+  - first:
+      213: 3261579493577974131
+    second: animales2_166
+  - first:
+      213: -8720931894744888620
+    second: animales2_167
+  - first:
+      213: -4932594823157383643
+    second: animales2_168
+  - first:
+      213: -85805841451714415
+    second: animales2_169
+  - first:
+      213: -9006916472970184314
+    second: animales2_170
+  - first:
+      213: -6136770986994236980
+    second: animales2_171
+  - first:
+      213: -2435393914507459865
+    second: animales2_172
+  - first:
+      213: -6075201930507027440
+    second: animales2_173
+  - first:
+      213: 7309644326892639914
+    second: animales2_174
+  - first:
+      213: 1243483629202911493
+    second: animales2_175
+  - first:
+      213: 829179369357298596
+    second: animales2_176
+  - first:
+      213: -627306190514653072
+    second: animales2_177
+  - first:
+      213: 3055189454511836138
+    second: animales2_178
+  - first:
+      213: 6634388776353998272
+    second: animales2_179
+  - first:
+      213: 1282649491606883422
+    second: animales2_180
+  - first:
+      213: -6128841158258354022
+    second: animales2_181
+  - first:
+      213: -1945361009717960595
+    second: animales2_182
+  - first:
+      213: 6747899001123590864
+    second: animales2_183
+  - first:
+      213: -3772353685032226612
+    second: animales2_184
+  - first:
+      213: 3831083619342893304
+    second: animales2_185
+  - first:
+      213: 7866389483127066236
+    second: animales2_186
+  - first:
+      213: 6948080262718486988
+    second: animales2_187
+  - first:
+      213: 7185054445608677888
+    second: animales2_188
+  - first:
+      213: 6008171321045773362
+    second: animales2_189
+  - first:
+      213: 7108107327436216556
+    second: animales2_190
+  - first:
+      213: -5206970591970158898
+    second: animales2_191
+  - first:
+      213: -729925288077113247
+    second: animales2_192
+  - first:
+      213: -7482250762214323298
+    second: animales2_193
+  - first:
+      213: 7267443858882133872
+    second: animales2_194
+  - first:
+      213: -8200353937399035591
+    second: animales2_195
+  - first:
+      213: -7824404240234331952
+    second: animales2_196
+  - first:
+      213: 3735510051825893663
+    second: animales2_197
+  - first:
+      213: 1307549381232424051
+    second: animales2_198
+  - first:
+      213: -9122076226657476354
+    second: animales2_199
+  - first:
+      213: 8930460422587804852
+    second: animales2_200
+  - first:
+      213: -797006851709642374
+    second: animales2_201
+  - first:
+      213: -1429935382507823312
+    second: animales2_202
+  - first:
+      213: -7069811372397739227
+    second: animales2_203
+  - first:
+      213: 5049619674471724326
+    second: animales2_204
+  - first:
+      213: -2541459344845385809
+    second: animales2_205
+  - first:
+      213: 7090960618071528182
+    second: animales2_206
+  - first:
+      213: -503066445102498801
+    second: animales2_207
+  - first:
+      213: 5627450537515113946
+    second: animales2_208
+  - first:
+      213: 1241714650205277854
+    second: animales2_209
+  - first:
+      213: -405325058737422587
+    second: animales2_210
+  - first:
+      213: 1767496002455432558
+    second: animales2_211
+  - first:
+      213: -6457261469664261791
+    second: animales2_212
+  - first:
+      213: -8814127978982465379
+    second: animales2_213
+  - first:
+      213: -6195757794870592961
+    second: animales2_214
+  - first:
+      213: 6511755146717659719
+    second: animales2_215
+  - first:
+      213: -1794546702982214183
+    second: animales2_216
+  - first:
+      213: 175297074233143745
+    second: animales2_217
+  - first:
+      213: -3289654813905292768
+    second: animales2_218
+  - first:
+      213: 8768815542888165919
+    second: animales2_219
+  - first:
+      213: 2105741193293517949
+    second: animales2_220
+  - first:
+      213: 6318649222748406926
+    second: animales2_221
+  - first:
+      213: 3813588709295764634
+    second: animales2_222
+  - first:
+      213: -6440833212767598712
+    second: animales2_223
+  - first:
+      213: -475506512998763098
+    second: animales2_224
+  - first:
+      213: 7802604774973322165
+    second: animales2_225
+  - first:
+      213: 2712474498426467185
+    second: animales2_226
+  - first:
+      213: -9054822785265474925
+    second: animales2_227
+  - first:
+      213: 3499080335871454462
+    second: animales2_228
+  - first:
+      213: 8700500057633324190
+    second: animales2_229
+  - first:
+      213: 776995904671937173
+    second: animales2_230
+  - first:
+      213: 3782466167614811165
+    second: animales2_231
+  - first:
+      213: 3521426873298760694
+    second: animales2_232
+  - first:
+      213: 4615169584805354604
+    second: animales2_233
+  - first:
+      213: 5592152164669343949
+    second: animales2_234
+  - first:
+      213: -7358249280208808741
+    second: animales2_235
+  - first:
+      213: 7518228281121180591
+    second: animales2_236
+  - first:
+      213: -8342956611842670132
+    second: animales2_237
+  - first:
+      213: -8946580182783590228
+    second: animales2_238
+  - first:
+      213: 3574846906711631977
+    second: animales2_239
+  - first:
+      213: 4642723263154260933
+    second: animales2_240
+  - first:
+      213: 5642075576998619039
+    second: animales2_241
+  - first:
+      213: -7977603285935583019
+    second: animales2_242
+  - first:
+      213: -6152182186407531976
+    second: animales2_243
+  - first:
+      213: 6118752572751745249
+    second: animales2_244
+  - first:
+      213: -8196760313814663144
+    second: animales2_245
+  - first:
+      213: 7518841386951124243
+    second: animales2_246
+  - first:
+      213: -8975542842634672166
+    second: animales2_247
+  - first:
+      213: 8219015936280286236
+    second: animales2_248
+  - first:
+      213: -6104489379627284195
+    second: animales2_249
+  - first:
+      213: 4465235843928381702
+    second: animales2_250
+  - first:
+      213: -7649726592856907895
+    second: animales2_251
+  - first:
+      213: -8411552077755587519
+    second: animales2_252
+  - first:
+      213: -2624974683328711955
+    second: animales2_253
+  - first:
+      213: -4489471252828173934
+    second: animales2_254
+  - first:
+      213: -3107546953749964088
+    second: animales2_255
+  - first:
+      213: 8355635692118438211
+    second: animales2_256
+  - first:
+      213: 2747604005634382806
+    second: animales2_257
+  - first:
+      213: -2381643648978494265
+    second: animales2_258
+  - first:
+      213: 4947876655677517344
+    second: animales2_259
+  - first:
+      213: 4787291558907181812
+    second: animales2_260
+  - first:
+      213: 1805464942420409430
+    second: animales2_261
+  - first:
+      213: -5398800333839374812
+    second: animales2_262
+  - first:
+      213: 7118754408315001863
+    second: animales2_263
+  - first:
+      213: -7609594630195801718
+    second: animales2_264
+  - first:
+      213: 7553426510060072364
+    second: animales2_265
+  - first:
+      213: -3287239267524743627
+    second: animales2_266
+  - first:
+      213: 8718210558823106024
+    second: animales2_267
+  - first:
+      213: 2378839163171321134
+    second: animales2_268
+  - first:
+      213: -4954312290354233957
+    second: animales2_269
+  - first:
+      213: 31228744425898368
+    second: animales2_270
+  - first:
+      213: 7264038188924446721
+    second: animales2_271
+  - first:
+      213: 5938804402511857954
+    second: animales2_272
+  - first:
+      213: 4198133057583873288
+    second: animales2_273
+  - first:
+      213: 4951344515936287431
+    second: animales2_274
+  - first:
+      213: -1957256149947058543
+    second: animales2_275
+  - first:
+      213: 1376517996909807742
+    second: animales2_276
+  - first:
+      213: 956457025794965559
+    second: animales2_277
+  - first:
+      213: 6769074153835127294
+    second: animales2_278
+  - first:
+      213: 583838238735118805
+    second: animales2_279
+  - first:
+      213: 8587708276636159713
+    second: animales2_280
+  - first:
+      213: -5195711207129588196
+    second: animales2_281
+  - first:
+      213: 4336968769045585053
+    second: animales2_282
+  - first:
+      213: 7709012567002687065
+    second: animales2_283
+  - first:
+      213: 2366552516089835847
+    second: animales2_284
+  - first:
+      213: 7804365984354062835
+    second: animales2_285
+  - first:
+      213: -8800190326235718538
+    second: animales2_286
+  - first:
+      213: -2703111392871209138
+    second: animales2_287
+  - first:
+      213: 581436311330121279
+    second: animales2_288
+  - first:
+      213: 8846334743253978450
+    second: animales2_289
+  - first:
+      213: 5401609373761359135
+    second: animales2_290
+  - first:
+      213: -8709090538367258051
+    second: animales2_291
+  - first:
+      213: 2497604777364730239
+    second: animales2_292
+  - first:
+      213: 3137165184104059667
+    second: animales2_293
+  - first:
+      213: -4798286090946926582
+    second: animales2_294
+  - first:
+      213: -2634130701268948592
+    second: animales2_295
+  - first:
+      213: -792929904378795616
+    second: animales2_296
+  - first:
+      213: 5023187885501592129
+    second: animales2_297
+  - first:
+      213: -2087419260456280433
+    second: animales2_298
+  - first:
+      213: -7479359647717475937
+    second: animales2_299
+  - first:
+      213: -1502994628352366419
+    second: animales2_300
+  - first:
+      213: -394063281089118292
+    second: animales2_301
+  - first:
+      213: -4834638437682594128
+    second: animales2_302
+  - first:
+      213: 1279328003788691253
+    second: animales2_303
+  - first:
+      213: 6616625190120640471
+    second: animales2_304
+  - first:
+      213: -1530224302100324648
+    second: animales2_305
+  - first:
+      213: -5946229757554547864
+    second: animales2_306
+  - first:
+      213: 3104692315636791432
+    second: animales2_307
+  - first:
+      213: 7422534544054251615
+    second: animales2_308
+  - first:
+      213: -6661614066406196589
+    second: animales2_309
+  - first:
+      213: -6628404488965266062
+    second: animales2_310
+  - first:
+      213: 5576897743858640510
+    second: animales2_311
+  - first:
+      213: 7544979404329786251
+    second: animales2_312
+  - first:
+      213: 1193655383226361444
+    second: animales2_313
+  - first:
+      213: -575347947701479600
+    second: animales2_314
+  - first:
+      213: 3459439960455832814
+    second: animales2_315
+  - first:
+      213: -5394239793080845229
+    second: animales2_316
+  - first:
+      213: -6129397530166423211
+    second: animales2_317
+  - first:
+      213: 1121795338982670029
+    second: animales2_318
+  - first:
+      213: -7397101281467800716
+    second: animales2_319
+  - first:
+      213: 1756802142705215554
+    second: animales2_320
+  - first:
+      213: 904002372304633680
+    second: animales2_321
+  - first:
+      213: -2819248250803699680
+    second: animales2_322
+  - first:
+      213: 8707305533719834936
+    second: animales2_323
+  - first:
+      213: 2223996035548015296
+    second: animales2_324
+  - first:
+      213: -6760154611641883108
+    second: animales2_325
+  - first:
+      213: 2427159466391775983
+    second: animales2_326
+  - first:
+      213: 4611285208202289893
+    second: animales2_327
+  - first:
+      213: 2817747022096774111
+    second: animales2_328
+  - first:
+      213: -263088797618314980
+    second: animales2_329
+  - first:
+      213: 5630467763179713162
+    second: animales2_330
+  - first:
+      213: 3352934685976770660
+    second: animales2_331
+  - first:
+      213: -7344659696195536266
+    second: animales2_332
+  - first:
+      213: -4580121601593398051
+    second: animales2_333
+  - first:
+      213: 1972307349144317681
+    second: animales2_334
+  - first:
+      213: 1984236946492813269
+    second: animales2_335
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: animales2_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 224
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71847840b9876064ca302e3fa70912ba
+      internalID: 8205067085304365936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 224
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f70ff340e34da4fa93056d3173fbd7
+      internalID: 2588967574001853807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 224
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666dc75e3e55ceb40a535f31ea5e6e0b
+      internalID: 350408603458165302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 224
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638aaa8e95df939488f9fbf60ac9be3d
+      internalID: 5704996688159217054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2f9bfdfd9f2043896cbd06f36d754
+      internalID: 88467122110478717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 224
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dfe61673310044dadd2ce40df44fa1
+      internalID: -3535960286163169345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854aea4f4dd8ca544bd2a56d17efbce6
+      internalID: -6735052393840372136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 224
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43535f1787098bf4b92b08d101f07468
+      internalID: 7395209034403932429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9999f813c809142b8c1aad1ba97a1a
+      internalID: 5044947574578726919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8c633c4e949504db7e9e48cde125d4
+      internalID: -7550582303124084224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 224
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee1021e3208a234ba66692db36ae392
+      internalID: 4389005402796566939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae5544d5e0adfd4bb0d545b6a19590d
+      internalID: -6236359506695921808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 320
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce05012eecc5b6d47a1f864d0f4cc34d
+      internalID: -1066046879365608229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 195
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1962bf25213a9447ab3131ab8ef0e4f
+      internalID: 5833168972965532920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e19ac527b9484ba724cd15663a67a
+      internalID: -8504835615463394743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 288
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c950bdf90b7776448a818ff2dcfb447
+      internalID: 1703694023868727813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_16
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c062a06c9624954185340791f97808f
+      internalID: -3736304860246632552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 163
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4672c2f904fe942a89dbad5c4db5e3
+      internalID: 5008261730920712005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_18
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e1cc8b0cf2fe94cbf591ec9fa6645a
+      internalID: 1356906006680010243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08523af659e850d42bad6f8914e0513f
+      internalID: -23054722862064370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 96
+        width: 26
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6e4a62fb7f19449af97b6247e98bad
+      internalID: 692943845431120163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 96
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d2efdfae9243a4f90fa730040743a2
+      internalID: 5149401818354312936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 96
+        width: 21
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc6c0d0a72fd494b95c05ded34d7cb1
+      internalID: 5296043990342853053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 96
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdb530fe7510ae4ca10a4e45961bbd5
+      internalID: 1625112740606019863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 96
+        width: 22
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e14e1c9568dd438ee310d7cb3d2f3
+      internalID: 1578601469713080373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9223549d088f94f9be6fa2d1f886cb
+      internalID: -5220121200617282665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 27
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02786094b2b08564d8efa07d97857bcc
+      internalID: -5814397872549932009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_27
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9908f60b0c7a0d4bb3b97115566a59d
+      internalID: -333637160354439409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_28
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 128
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9fab9d523dc574eb743068ed4fbaa0
+      internalID: 9161745511988947639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 128
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48148331ebc55c04cb1ebc8d8f858408
+      internalID: -5418628546710143875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 128
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56dc6c8d47999c4ead26b07255ad8a7
+      internalID: -7078630644817010183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 287
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf7353f986033468cb15d3616d3855
+      internalID: 7841842923647604573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 287
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9383746c79a5ca4ab6c5c39ced86d1e
+      internalID: -4141621975745906697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e5013be66b5fe41a0fd56996d4eb7d
+      internalID: -4957005386239867464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51bddf85917cba40aa6cdc535e88021
+      internalID: -8721674922459113637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de67ae539f3199240a3acacbd064a03e
+      internalID: 3432186835313621265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058e034da2983924c9fb25e42a7a05d1
+      internalID: -4299203025073129067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_37
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f8d013d0345f74ca049aa7660f3317
+      internalID: 5071260086939782719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_38
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a101cadc922df43918f5e17540e46c
+      internalID: -1271772233581056666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5785e3b4682834f9023c35921c9aa4
+      internalID: 1746102644690234459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_40
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a77340c4490144f886a4cc57612af5
+      internalID: -8514504049785812456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: animales2_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4c2a738519ca4e88efdd4443abc73
+      internalID: 5395153220403263752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
